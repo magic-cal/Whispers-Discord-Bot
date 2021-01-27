@@ -1,0 +1,22 @@
+{
+  "name": "whispers-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Magic-Cal",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "description": "whispers bot to introduce people into a whispers room"
+}
